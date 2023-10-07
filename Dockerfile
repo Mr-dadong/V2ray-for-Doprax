@@ -1,5 +1,5 @@
-#FROM nginx:mainline-alpine-slim
-FROM nginx:mainline-alpine3.18-slim
+FROM nginx:mainline-alpine-slim
+# FROM nginx:mainline-alpine3.18-slim
 EXPOSE 80
 USER root
 
